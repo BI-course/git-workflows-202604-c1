@@ -1,0 +1,1 @@
+Differenciate between ETL, ELT and EtLT
