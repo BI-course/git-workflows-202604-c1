@@ -77,3 +77,4 @@ Basic cleaning is done before loading, and advanced analytics or aggregations ar
 - ETL → Clean first, then store
 - ELT → Store first, then clean
 - ETLT → Clean a little, store, then clean again
+Task assigned to Alfred 
