@@ -34,7 +34,7 @@
 | Anastacia Muya | Issue #5 | feature/lab-1/research-on-data-governance | Add a governance.md file reviewing data governance and access to PII | 100% Complete |
 
 
-
+Project lead: Member 4 — responsible for overall coordination.
 
 ## Lab Manuals
 
