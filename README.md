@@ -33,6 +33,8 @@
 | Nicole Wachira | Issue #4 | feature/lab-1/differentiating-on-ETL-ELT-EtLT | Create a data_pipeline.md differentiating between ETL, ELT, and EtLT in the context of compliance with legal requirements in an industry | 75% Complete |
 | Anastacia Muya | Issue #5 | feature/lab-1/research-on-data-governance | Add a governance.md file reviewing data governance and access to PII | 100% Complete |
 
+
+Project lead: Member 5 — responsible for governance and audit.
 ## Lab Manuals
 
 Refer to the files in the order specified below for more details:
